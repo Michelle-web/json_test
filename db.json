@@ -1,7 +1,5 @@
 [
   {
-    "id": 329996,
-    "rating": 6,
     "title": "Dumbo",
     "poster": "https://image.tmdb.org/t/p/w500/A7XkpLfNH0El2yyDLc4b0KLAKvE.jpg",
     "overview": "A young elephant, whose oversized ears enable him to fly, helps save a struggling circus",
@@ -13,8 +11,6 @@
     ]
   },
   {
-    "id": 299536,
-    "rating": 7.5,
     "title": "Avengers: Infinity War",
     "poster": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
     "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle",
@@ -26,8 +22,6 @@
     ]
   },
   {
-    "id": 458723,
-    "rating": 7,
     "title": "Us",
     "poster": "https://image.tmdb.org/t/p/w500/ux2dU1jQ2ACIMShzB3yP93Udpzc.jpg",
     "overview": "Husband and wife Gabe and Adelaide Wilson take their kids to their beach house expecting to unplug and unwind with friends",
@@ -38,8 +32,6 @@
     ]
   },
   {
-    "id": 424783,
-    "rating": 7,
     "title": "Bumblebee",
     "poster": "https://image.tmdb.org/t/p/w500/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg",
     "overview": "On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town.",
@@ -51,8 +43,6 @@
     ]
   },
   {
-    "id": 920,
-    "rating": 5,
     "title": "Cars",
     "poster": "https://image.tmdb.org/t/p/w500/qa6HCwP4Z15l3hpsASz3auugEW6.jpg",
     "overview": "Lightning McQueen, a hotshot rookie race car driven to succeed",
